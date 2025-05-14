@@ -20,13 +20,13 @@ This project was developed as part of a **JavaScript study**, focusing on DOM ma
 
 ## 🔗 Demo
 
-[Box Shadow](./demo) <!-- Replace with your GitHub Pages or live site link -->
+[Box Shadow](./demo.gif) 
 
 ## 📦 How to Use
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/box-shadow-generator.git
+   git clone https://github.com/gabmajeau/Box_shadow_generator.git
    ```
 2. Open the index.html file in your browser.
    
