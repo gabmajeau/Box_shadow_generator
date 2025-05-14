@@ -18,9 +18,9 @@ A simple **Box Shadow Generator** built with **HTML, CSS, and Vanilla JavaScript
 
 This project was developed as part of a **JavaScript study**, focusing on DOM manipulation, event handling, and dynamic style updates.
 
-## 🔗 Live Demo
+## 🔗 Demo
 
-[Click here to see the demo](./demo) <!-- Replace with your GitHub Pages or live site link -->
+[Box Shadow](./demo) <!-- Replace with your GitHub Pages or live site link -->
 
 ## 📦 How to Use
 
