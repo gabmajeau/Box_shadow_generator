@@ -26,7 +26,7 @@ This project was developed as part of a **JavaScript study**, focusing on DOM ma
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/gabmajeau/Box_shadow_generator.git
+   https://github.com/gabmajeau/Box_shadow_generator.git
    ```
 2. Open the index.html file in your browser.
    
