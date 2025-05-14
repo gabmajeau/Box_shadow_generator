@@ -1,26 +1,23 @@
-# 🎨 Box Shadow Generator
+# Box Shadow Generator
 
 A simple **Box Shadow Generator** built with **HTML, CSS, and Vanilla JavaScript**, created exclusively for **learning and practice purposes**.
 
-## 🚀 Features
+## Features
 
 - Real-time `box-shadow` preview  
 - Clean and responsive interface  
 - One-click copy to clipboard  
 
-## 🛠️ Technologies
+## Technologies
 
 - HTML5  
 - CSS3  
 - JavaScript (Vanilla)
 
-## 🎯 Purpose
 
-This project was developed as part of a **JavaScript study**, focusing on DOM manipulation, event handling, and dynamic style updates.
+## Demo
 
-## 🔗 Demo
-
-[Box Shadow](./demo.gif) 
+![Box Shadow](./demo.gif) 
 
 
    
